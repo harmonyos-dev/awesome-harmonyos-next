@@ -1,7 +1,6 @@
-# Resources
+# 官方资源
 
 ### IDE
-
 DevEco Studio
 - 官网: [click](https://developer.huawei.com/consumer/cn/deveco-studio/)
 - 使用指南：[click](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V2/devecostudio_userguide-0000001054619202-V2)
@@ -24,3 +23,8 @@ DevEco Studio
 
 ### DevEco Testing
 - 官网：[click](https://devecoservice.harmonyos.com/#deveco-testing)
+
+# 非官方资源
+
+### 书籍
+- [《ArkUI实战》](https://www.arkui.club/)

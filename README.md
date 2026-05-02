@@ -28,3 +28,6 @@ DevEco Studio
 
 ### 书籍
 - [《ArkUI实战》](https://www.arkui.club/)
+
+### 自动化测试
+- [HMNextAuto](https://github.com/ziguiway/hmnextauto) - 基于 Python 的鸿蒙 NEXT UI 自动化框架，兼容 uiautomator2 API 风格，支持 XPath、图像识别、性能监控、通知管理等

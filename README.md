@@ -26,6 +26,9 @@ DevEco Studio
 
 # 非官方资源
 
+### AI 开发辅助
+- [harmony-next.skills](https://github.com/linhay/harmony-next.skills) - 面向 Codex、Claude Code、Gemini CLI 等 AI 编程助手的 HarmonyOS NEXT 开发者技能包，提供本地 ArkTS/ArkUI/API 参考、DevEco Studio 工作流、Emulator/HDC 自动化、UI/UX 审计、trace 审计和 Empty Ability smoke 测试模板
+
 ### 书籍
 - [《ArkUI实战》](https://www.arkui.club/)
 

@@ -28,6 +28,7 @@ DevEco Studio
 
 ### AI 开发辅助
 - [harmony-next.skills](https://github.com/linhay/harmony-next.skills) - 面向 Codex、Claude Code、Gemini CLI 等 AI 编程助手的 HarmonyOS NEXT 开发者技能包，提供本地 ArkTS/ArkUI/API 参考、DevEco Studio 工作流、Emulator/HDC 自动化、UI/UX 审计、trace 审计和 Empty Ability smoke 测试模板
+- [hmharness](https://github.com/swsgbl/hmharness) - 开源鸿蒙开发 Agent 框架：零 IDE 跑通脚手架/构建/签名/装机/日志全链（MIT），免华为账号、任意 OpenAI 兼容模型、SDK 20,241 符号索引防 ArkTS API 幻觉、双门禁自进化附公开证据页；支持 hmh mcp-serve 供给 Claude Code/Codex
 
 ### 书籍
 - [《ArkUI实战》](https://www.arkui.club/)

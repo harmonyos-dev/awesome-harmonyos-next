@@ -35,3 +35,6 @@ DevEco Studio
 
 ### 自动化测试
 - [HMNextAuto](https://github.com/ziguiway/hmnextauto) - 基于 Python 的鸿蒙 NEXT UI 自动化框架，兼容 uiautomator2 API 风格，支持 XPath、图像识别、性能监控、通知管理等
+
+### 发布 / 上架
+- [apkgo](https://github.com/KevinGong2013/apkgo) - 开源 CLI / 托管版：一次上传并发发布到国内主流安卓商店，支持鸿蒙 .app 整包与 iOS（云端）；CLI 为 PolyForm Noncommercial；官网 https://apkgo.baici.tech
